@@ -44,7 +44,7 @@ export default {
   methods:{
 getwh() {
     
-      const url = 'http://api.openweathermap.org/data/2.5/weather?q=london&appid=74809c652a768472e95f5d913143d783'
+      const url = 'https://api.openweathermap.org/data/2.5/weather?q=london&appid=74809c652a768472e95f5d913143d783'
       const params={
           id:'2172797',
           appid:'74809c652a768472e95f5d913143d783'
